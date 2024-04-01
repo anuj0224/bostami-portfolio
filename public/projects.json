@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "title": "MERN-Portfolio",
+      "category": "Web development",
+      "image": "images/portfolio-1.png"
+    },
+    {
+      "id": 2,
+      "title": "React-Portfolio",
+      "category": "Web development",
+      "image": "images/portfolio-2.png"
+    }
+  ]
+  

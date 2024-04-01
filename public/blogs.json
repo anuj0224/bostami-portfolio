@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Web Security Summit",
+    "category": "Web Development",
+    "date": "November 18-19, 2022",
+    "image": "/images/blog-3.jpg",
+    "description": "Protect your web applications from cyber threats by attending our web security summit. Gain insights from cybersecurity experts on topics such as OWASP top 10 vulnerabilities, secure coding practices, and threat mitigation strategies to safeguard your digital assets."
+  },
+  {
+    "title": "UI/UX Design Conference",
+    "category": "Web Development",
+    "date": "October 5-7, 2022",
+    "image": "/images/blog-4.jpg",
+    "description": "Discover the latest trends and methodologies in user interface and user experience design at our annual conference. From wireframing to prototyping, learn how to create intuitive and engaging web interfaces that delight users and drive business success."
+  },
+  {
+    "title": "Full-Stack Development Bootcamp",
+    "category": "Web Development",
+    "date": "August 20-September 10, 2022",
+    "image": "/images/blog-6.jpg",
+    "description": "Embark on a transformative journey to become a full-stack developer in just three weeks. Our comprehensive bootcamp covers frontend technologies, backend frameworks, databases, and deployment strategies, equipping you with the skills needed to build robust web applications."
+  },
+  {
+    "title": "JavaScript Conference",
+    "category": "Web Development",
+    "date": "July 8-10, 2022",
+    "image": "/images/blog-5.jpg",
+    "description": "Explore the latest trends and best practices in JavaScript development at our annual conference. From ES6 features to advanced frameworks like Node.js and Express.js, dive deep into the world of JavaScript programming with industry experts."
+  },
+  {
+    "title": "Node.js Interactive",
+    "category": "Web Development",
+    "date": "June 20-23, 2022",
+    "image": "/images/blog-2.jpg",
+    "description": "Join the Node.js community for a comprehensive conference focused on all things Node.js. From server-side JavaScript development to building scalable, real-time applications, Node.js Interactive offers valuable insights and networking opportunities for developers of all skill levels."
+  },
+  {
+    "title": "DevOps World",
+    "category": "Web Development",
+    "date": "September 12-15, 2022",
+    "image": "/images/blog-1.jpg",
+    "description": "Explore the intersection of development and operations at DevOps World. Learn about continuous integration/continuous deployment (CI/CD), infrastructure as code (IaC), and other DevOps practices to streamline software delivery and enhance collaboration within your organization."
+  },
+  {
+    "title": "GraphQL Summit",
+    "category": "Web Development",
+    "date": "October 25-27, 2022",
+    "image": "/images/blog-6.jpg",
+    "description": "Delve into the world of GraphQL at our annual summit. Discover how GraphQL revolutionizes API development by enabling clients to query and manipulate data in a flexible and efficient manner. Whether you're new to GraphQL or a seasoned practitioner, our summit has something for you."
+  },
+  {
+    "title": "Web Accessibility Conference",
+    "category": "Web Development",
+    "date": "November 8-10, 2022",
+    "image": "/images/blog-5.jpg",
+    "description": "Promote inclusivity and accessibility on the web by attending our conference dedicated to web accessibility. Learn about WCAG guidelines, assistive technologies, and best practices for designing and developing accessible web content that caters to users of all abilities."
+  },
+  {
+    "title": "Web Performance Summit",
+    "category": "Web Development",
+    "date": "December 5-7, 2022",
+    "image": "/images/blog-4.jpg",
+    "description": "Optimize the performance of your web applications at our summit focused on web performance. Explore techniques for reducing page load times, optimizing rendering, and minimizing network latency to deliver fast and responsive user experiences across devices and platforms."
+  }
+  
+  
+  
+  
+  
+  ]
+  
