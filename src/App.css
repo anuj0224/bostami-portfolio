@@ -1214,7 +1214,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     width: 520px;
     margin-inline: auto;
     padding: 30px;
-overflow: scroll;	
+	
   }
 
   .article-title {
@@ -1254,11 +1254,12 @@ overflow: scroll;
   .sidebar {
     max-height: 180px;
     margin-bottom: 30px;
+	  overflow: scroll;
   }
 
   .sidebar.active { max-height: 584px; }
 
-  .sidebar-info { gap: 25px; }
+  .sidebar-info { gap: 25px; overflow: scroll; }
 
   .avatar-box { border-radius: 30px; }
 
@@ -1291,6 +1292,7 @@ overflow: scroll;
   .contact-info {
     max-width: calc(100% - 64px);
     width: calc(100% - 64px);
+	  overflow: scroll;
   }
 
 
