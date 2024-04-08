@@ -12,7 +12,7 @@ function Aside() {
         <div className="sidebar-info">
           <figure className="avatar-box">
             <img
-              src={"/images/anuj5.png"}
+              src={"/images/anuj.jpg"}
               alt="Anuj Mourya"
               width="80"
             />
