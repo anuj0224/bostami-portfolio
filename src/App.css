@@ -1214,6 +1214,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     width: 520px;
     margin-inline: auto;
     padding: 30px;
+overflow: scroll;	
   }
 
   .article-title {
