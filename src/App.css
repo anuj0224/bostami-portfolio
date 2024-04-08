@@ -1286,7 +1286,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     margin: 32px 5px;
   }
 
-  .contacts-list { gap: 20px; display: flex; }
+  .contacts-list { gap: 10px; }
 
   .contact-info {
     max-width: calc(100% - 64px);
