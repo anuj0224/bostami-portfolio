@@ -1254,12 +1254,11 @@ textarea.form-input::-webkit-resizer { display: none; }
   .sidebar {
     max-height: 180px;
     margin-bottom: 30px;
-	  overflow: scroll;
   }
 
   .sidebar.active { max-height: 584px; }
 
-  .sidebar-info { gap: 25px; overflow: scroll; }
+  .sidebar-info { gap: 25px;}
 
   .avatar-box { border-radius: 30px; }
 
@@ -1292,7 +1291,6 @@ textarea.form-input::-webkit-resizer { display: none; }
   .contact-info {
     max-width: calc(100% - 64px);
     width: calc(100% - 64px);
-	  overflow: scroll;
   }
 
 
