@@ -59,7 +59,7 @@ function Aside() {
               </div>
               <div className='contact-info'>
                 <p className='contact-title'>Email</p>
-                <a className='contact-link' href='mailto:anuj@gmail.com'>anuj@gmail.com</a>
+                <a className='contact-link' href='mailto:mouryaanuj62@gmail.com'>anujmourya@gmail.com</a>
               </div>
             </li>
 
