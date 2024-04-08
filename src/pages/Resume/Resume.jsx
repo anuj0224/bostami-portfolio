@@ -20,11 +20,11 @@ function Resume() {
             <ol className='timeline-list'>
                 <TimelineItem title="Govt. Sarvodya Bal Vidyalya"
                 date = "2008 - 2018" 
-                description = "Class 10th with 85% Subjects = Science, Maths, English, Hindi, Social Science "/>
+                description = "Class 10th with Subjects = Science, Maths, English, Hindi, Social Science "/>
 
                 <TimelineItem title="School of Excellence"
                 date = "2018 - 2020" 
-                description = "Class 12th with74.5% Subjects = English, Physics, Chemistry, Maths, Computer Science "/>
+                description = "Class 12th with Subjects = English, Physics, Chemistry, Maths, Computer Science "/>
 
                 <TimelineItem title="BM Group Of Institution"
                 date = "2022-2026" 
