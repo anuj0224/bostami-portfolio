@@ -42,7 +42,7 @@ function Portfolio() {
 
       {/* Filter buttons */}
       <ul className="filter-list">
-        {['All','Web Application','Web development'].map(category => (
+        {['All','Web Application','Web development','Programming language'].map(category => (
           <li className="filter-item" key={category}>
             <button className={category === selectedCategory ? 'active' : ''} onClick={() => handleFilterClick(category)}>
               {category}
@@ -55,7 +55,7 @@ function Portfolio() {
             <ul className="project-list">
                 {filteredProjects.map(project => (
                     <li className="project-item active" data-category={project.category} key={project.id}>
-                        <a href={project.image}>
+                      <a href={project.link}>
                             <figure className="project-img">
                                 <div className="project-item-icon-box">
                                     <FaRegEye />
