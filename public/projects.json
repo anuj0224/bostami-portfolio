@@ -2,12 +2,14 @@
     {
       "id": 1,
       "title": "MERN-Portfolio",
+      "link": "https://react-portfolio-lake-chi.vercel.app/",
       "category": "Web development",
       "image": "images/portfolio-1.png"
     },
     {
       "id": 2,
       "title": "React-Portfolio",
+      "link": "https://bostami-anuj-portfolio.vercel.app/",
       "category": "Web development",
       "image": "images/portfolio-2.png"
     },
