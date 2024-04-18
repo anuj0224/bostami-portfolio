@@ -10,6 +10,18 @@
       "title": "React-Portfolio",
       "category": "Web development",
       "image": "images/portfolio-2.png"
+    },
+    {
+      "id": 3,
+      "title": "MERN-Blog",
+      "category": "Web development",
+      "image": "images/portfolio-3.png"
+    },
+    {
+      "id": 4,
+      "title": "MERN-Group-Chat",
+      "category": "Web development",
+      "image": "images/portfolio-4.png"
     }
   ]
   
