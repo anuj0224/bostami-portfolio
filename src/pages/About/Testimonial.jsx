@@ -3,7 +3,7 @@ import React from 'react'
 function Testimonial({ name, avatar, testimonial}) {
   return (
     <li className='testimonials-item'>
-        <div className='content-card'><h1>hii</h1>
+        <div className='content-card'>
             <figure className='testimonials-avatar-box'>
                 <img src={avatar} alt="img" width='60'/>
                 
