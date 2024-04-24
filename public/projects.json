@@ -26,6 +26,13 @@
       "link": "",
       "category": "Web development",
       "image": "images/portfolio-4.png"
+    },
+    {
+      "id": 5,
+      "title": "PokePedia",
+      "link": "https://anuj-poke-pedia.vercel.app/",
+      "category": "Web development",
+      "image": "images/portfolio-5.png"
     }
   ]
   
