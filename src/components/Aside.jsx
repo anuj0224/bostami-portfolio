@@ -23,7 +23,7 @@ function Aside() {
               Anuj Mourya
             </h1>
 
-            <p className="title">Web developer</p>
+            <p className="title">Full Stack Developer</p>
             <br/>
             <div className="socialmedia-list">
             <a href='https://www.linkedin.com/in/anuj-mourya-73b697291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' className=" icon-box">
