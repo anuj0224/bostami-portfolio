@@ -33,6 +33,13 @@
       "link": "https://anuj-poke-pedia.vercel.app/",
       "category": "Web development",
       "image": "images/portfolio-5.png"
+    },
+    {
+      "id": 6,
+      "title": "Code Scribe",
+      "link": "https://anuj0224.github.io/codeScribe/",
+      "category": "Web Application",
+      "image": "images/portfolio-6.png"
     }
   ]
   
