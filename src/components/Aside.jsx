@@ -12,7 +12,7 @@ function Aside() {
         <div className="sidebar-info">
           <figure className="avatar-box">
             <img
-              src={"/images/anuj.jpg"}
+              src={"/images/anuj.jpeg"}
               alt="Anuj Mourya"
               width="80"
             />
@@ -29,7 +29,7 @@ function Aside() {
             <a href='https://www.linkedin.com/in/anuj-mourya-73b697291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' className=" icon-box">
               <IoLogoLinkedin />
             </a>
-            <a href='https://www.instagram.com/anujmourya18_?igsh=ZTUwdjhzcWNvdXdt' className=" icon-box">
+            <a href='https://www.instagram.com/anujmourya.dev/#' className=" icon-box">
               <FaInstagram />
             </a>
             <a href='https://github.com/anuj0224' className=" icon-box">
@@ -59,7 +59,7 @@ function Aside() {
               </div>
               <div className='contact-info'>
                 <p className='contact-title'>Email</p>
-                <a className='contact-link' href='mailto:mouryaanuj62@gmail.com'>anujmourya@gmail.com</a>
+                <a className='contact-link' href='mailto:mouryaanuj62@gmail.com'>mouryaanuj62@gmail.com</a>
               </div>
             </li>
 
