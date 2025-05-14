@@ -16,7 +16,7 @@ const servicesData =
       "description": "The high-quality Rest API made at a professional level."
     },
     {
-      "title": "Web development",
+      "title": "Full Stack Developer",
       "icon": "/images/icon-dev.svg",
       "description": "High-quality development of sites at the professional level."
     },
@@ -78,9 +78,9 @@ function About() {
       </section>
 
 
-      <section className='clients'>
+{/*       <section className='clients'>
         <h3 className='h3 clients-title'>Clients</h3>
-            <ul className=' clients-list has-scrollbar'>
+            <ul className=' clients-list has-scrollbar'> */}
               {/* <li className='clients-item'>
                 <a href='#'>
                   <img src='/images/logo-1-color.png' alt='nnnn'/>
@@ -111,9 +111,9 @@ function About() {
                   <img src='/images/logo-6-color.png' alt='nnnn'/>
                 </a>
               </li> */}
-                <p className='about-text'>No Clients</p>
+{/*                 <p className='about-text'>No Clients</p>
             </ul>
-      </section>
+      </section> */}
        
     </div>
   )
