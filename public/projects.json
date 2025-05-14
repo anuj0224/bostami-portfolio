@@ -21,13 +21,6 @@
       "image": "images/portfolio-3.png"
     },
     {
-      "id": 4,
-      "title": "MERN-Group-Chat",
-      "link": "",
-      "category": "Web development",
-      "image": "images/portfolio-4.png"
-    },
-    {
       "id": 5,
       "title": "PokePedia",
       "link": "https://anuj-poke-pedia.vercel.app/",
