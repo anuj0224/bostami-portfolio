@@ -55,7 +55,7 @@ function Portfolio() {
             <ul className="project-list">
                 {filteredProjects.map(project => (
                     <li className="project-item active" data-category={project.category} key={project.id}>
-                      <a href={project.link}>
+                      <a href={project.link} target="_blank" rel="noopener noreferrer">
                             <figure className="project-img">
                                 <div className="project-item-icon-box">
                                     <FaRegEye />
