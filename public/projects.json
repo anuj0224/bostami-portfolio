@@ -1,38 +1,93 @@
 [
-    {
-      "id": 1,
-      "title": "MERN-Portfolio",
-      "link": "https://react-portfolio-lake-chi.vercel.app/",
-      "category": "Web development",
-      "image": "images/portfolio-1.png"
-    },
-    {
-      "id": 2,
-      "title": "React-Portfolio",
-      "link": "https://bostami-anuj-portfolio.vercel.app/",
-      "category": "Web development",
-      "image": "images/portfolio-2.png"
-    },
-    {
-      "id": 3,
-      "title": "MERN-Blog",
-      "link": "",
-      "category": "Web Application",
-      "image": "images/portfolio-3.png"
-    },
-    {
-      "id": 5,
-      "title": "PokePedia",
-      "link": "https://anuj-poke-pedia.vercel.app/",
-      "category": "Web development",
-      "image": "images/portfolio-5.png"
-    },
-    {
-      "id": 6,
-      "title": "Code Scribe",
-      "link": "https://anuj0224.github.io/codeScribe/",
-      "category": "Web Application",
-      "image": "images/portfolio-6.png"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "MERN-Portfolio",
+    "link": "https://react-portfolio-lake-chi.vercel.app/",
+    "category": "Web development",
+    "image": "images/portfolio-1.png"
+  },
+  {
+    "id": 2,
+    "title": "React-Portfolio",
+    "link": "https://bostami-anuj-portfolio.vercel.app/",
+    "category": "Web development",
+    "image": "images/portfolio-2.png"
+  },
+  {
+    "id": 3,
+    "title": "MERN-Blog",
+    "link": "",
+    "category": "Web Application",
+    "image": "images/portfolio-3.png"
+  },
+  {
+    "id": 5,
+    "title": "PokePedia",
+    "link": "https://anuj-poke-pedia.vercel.app/",
+    "category": "Web development",
+    "image": "images/portfolio-5.png"
+  },
+  {
+    "id": 6,
+    "title": "Code Scribe",
+    "link": "https://anuj0224.github.io/codeScribe/",
+    "category": "Web Application",
+    "image": "images/portfolio-6.png"
+  },
+  {
+    "id": 7,
+    "title": "Hangman Game",
+    "link": "https://anuj0224.github.io/hangman_game/",
+    "category": "Web Application",
+    "image": "images/portfolio-7.png"
+  },
+  {
+    "id": 8,
+    "title": "Word Scramble Game",
+    "link": "https://anuj0224.github.io/word-scramble-game/",
+    "category": "Web Application",
+    "image": "images/portfolio-8.png"
+  },
+  {
+    "id": 9,
+    "title": "Word FlashCard",
+    "link": "https://anuj0224.github.io/word-flashCard/",
+    "category": "Web Application",
+    "image": "images/portfolio-9.png"
+  },
+  {
+    "id": 10,
+    "title": "3D Car Animation Model",
+    "link": "https://anuj0224.github.io/3D-Car-Animation-Model/",
+    "category": "Others",
+    "image": "images/portfolio-10.png"
+  },
+  {
+    "id": 11,
+    "title": "Memory Card Game",
+    "link": "https://anuj0224.github.io/memory-card-game/",
+    "category": "Web Application",
+    "image": "images/portfolio-11.png"
+  },
+  {
+    "id": 12,
+    "title": "Drawing App",
+    "link": "https://anuj0224.github.io/drawingApp/",
+    "category": "Web Application",
+    "image": "images/portfolio-12.png"
+  },
+  {
+    "id": 13,
+    "title": "3D Portfolio in HTML CSS JS",
+    "link": "https://anuj0224.github.io/3d-portfolioin-html-css-js/",
+    "category": "Web development",
+    "image": "images/portfolio-13.png"
+  },
+  {
+    "id": 14,
+    "title": "Pokedex",
+    "link": "https://anuj0224.github.io/pokedex/",
+    "category": "Web Application",
+    "image": "images/portfolio-14.png"
+  }
+]
