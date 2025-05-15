@@ -42,7 +42,7 @@ function Portfolio() {
 
       {/* Filter buttons */}
       <ul className="filter-list">
-        {['All','Web Application','Web development','Programming language'].map(category => (
+        {['All','Web Application','Web development'].map(category => (
           <li className="filter-item" key={category}>
             <button className={category === selectedCategory ? 'active' : ''} onClick={() => handleFilterClick(category)}>
               {category}
