@@ -6,6 +6,11 @@ import Testimonial from './Testimonial';
 const servicesData = 
 [
     {
+      "title": "Full Stack Developer",
+      "icon": "/images/icon-dev.svg",
+      "description": "High-quality development of sites at the professional level."
+    },
+    {
       "title": "Frontend Development",
       "icon": "/images/icon-dev.svg",
       "description": "The most modern and high-quality webpages made at a professional level."
@@ -14,11 +19,6 @@ const servicesData =
       "title": "Backend Development",
       "icon": "/images/icon-dev.svg",
       "description": "The high-quality Rest API made at a professional level."
-    },
-    {
-      "title": "Full Stack Developer",
-      "icon": "/images/icon-dev.svg",
-      "description": "High-quality development of sites at the professional level."
     },
   ];
 
